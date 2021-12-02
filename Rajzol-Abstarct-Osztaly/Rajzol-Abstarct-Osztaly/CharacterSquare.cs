@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Rajzol_Abstarct_Osztaly
 {
-    abstract class Grafobject
+    abstract class CharacterSquare
     {
         protected int x;
         protected int y;
@@ -23,9 +23,9 @@ namespace Rajzol_Abstarct_Osztaly
         }
     }
 
-    class Circle : Grafobject
+    class Square : Grafobject
     {
-        public Circle(int x, int y)
+        public Square(int x, int y)
         {
             this.x = x;
             this.y = y;
@@ -34,33 +34,13 @@ namespace Rajzol_Abstarct_Osztaly
         public override void Draw()
         {
             Console.SetCursorPosition(x, y);
-            Console.Write("O");
+            Console.Write("KOCKA");
         }
 
         public override void Delete()
         {
             Console.SetCursorPosition(x - 1, y);
             Console.Clear();
-        }
-    }
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Square s = new Square(5, 5);
-
-            Circle c = new Circle(3, 4);
-            c.Draw();
-            s.Draw();
-            Console.ReadLine();
-
-            c.Move(5, 6);
-            s.Move(10, 10);
-            Console.ReadLine();
-
-            c.Move(3, 4);
-            s.Move(15, 15);
-            Console.ReadLine();
         }
     }
 }
