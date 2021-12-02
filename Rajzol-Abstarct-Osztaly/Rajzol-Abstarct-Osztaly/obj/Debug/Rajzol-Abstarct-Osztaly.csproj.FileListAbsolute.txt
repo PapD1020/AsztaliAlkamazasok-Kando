@@ -1,0 +1,7 @@
+C:\Users\Tanulo\Pap Dániel\Asztali git\AsztaliAlkamazasok-Kando\Rajzol-Abstarct-Osztaly\Rajzol-Abstarct-Osztaly\bin\Debug\Rajzol-Abstarct-Osztaly.exe.config
+C:\Users\Tanulo\Pap Dániel\Asztali git\AsztaliAlkamazasok-Kando\Rajzol-Abstarct-Osztaly\Rajzol-Abstarct-Osztaly\bin\Debug\Rajzol-Abstarct-Osztaly.exe
+C:\Users\Tanulo\Pap Dániel\Asztali git\AsztaliAlkamazasok-Kando\Rajzol-Abstarct-Osztaly\Rajzol-Abstarct-Osztaly\bin\Debug\Rajzol-Abstarct-Osztaly.pdb
+C:\Users\Tanulo\Pap Dániel\Asztali git\AsztaliAlkamazasok-Kando\Rajzol-Abstarct-Osztaly\Rajzol-Abstarct-Osztaly\obj\Debug\Rajzol-Abstarct-Osztaly.csproj.AssemblyReference.cache
+C:\Users\Tanulo\Pap Dániel\Asztali git\AsztaliAlkamazasok-Kando\Rajzol-Abstarct-Osztaly\Rajzol-Abstarct-Osztaly\obj\Debug\Rajzol-Abstarct-Osztaly.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\Pap Dániel\Asztali git\AsztaliAlkamazasok-Kando\Rajzol-Abstarct-Osztaly\Rajzol-Abstarct-Osztaly\obj\Debug\Rajzol-Abstarct-Osztaly.exe
+C:\Users\Tanulo\Pap Dániel\Asztali git\AsztaliAlkamazasok-Kando\Rajzol-Abstarct-Osztaly\Rajzol-Abstarct-Osztaly\obj\Debug\Rajzol-Abstarct-Osztaly.pdb
